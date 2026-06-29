@@ -1,0 +1,24 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CUCINA KRAFT — Image File Guide
+  In ye folder mein apne photos save karo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 public/images/hero/
+   └── hero-bg.jpg          ← Hero section background (1920x1080, landscape)
+
+📁 public/images/gallery/
+   ├── kitchen-green-1.jpg  ← Kitchen (sink area, green cabinets, subway tile)
+   ├── kitchen-green-2.jpg  ← Kitchen (full L-shape, green, glass display unit)
+   ├── bedroom-wardrobe.jpg ← Bedroom (pink bed, fluted wall, sliding wardrobe)
+   ├── door-gold.jpg        ← Door (beige finish, gold inlay strips)
+   ├── tv-panel-modern.jpg  ← TV Unit (white fluted + black marble)
+   ├── foyer-mirror.jpg     ← Foyer (round mirror, wood + marble console)
+   └── living-tv-wall.jpg   ← Living room (full fluted TV wall, warm tones, LED)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIPS:
+• JPG format use karo (file size chhota rahega)
+• 800–1200px width kaafi hai gallery ke liye
+• Hero ke liye 1920px width best hai
+• File names exactly match karni chahiye (case sensitive)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
